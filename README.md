@@ -1,1 +1,1 @@
-A page records the journey of F and me. 
+A page records the story of F and me. 
