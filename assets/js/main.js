@@ -1,7 +1,5 @@
 /*
-	Ethereal by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Downloaded from html5up.net and for personal use under to the CCA 3.0 license
 */
 
 (function($) {
@@ -24,7 +22,7 @@
 				scrollWheel: {
 
 					// If true, enables scrolling via the scroll wheel.
-						enabled: true,
+						enabled: false,
 
 					// Sets the scroll wheel factor. (Ideally) a value between 0 and 1 (lower = slower scroll, higher = faster scroll).
 						factor: 1
