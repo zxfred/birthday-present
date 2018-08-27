@@ -1,3 +1,1 @@
-### A story between F and me
-
-一个简单的静态页面, 记录了我们的旅程, 希望你能喜欢。
+Demo: [点击这里](https://zxfred.github.io/birthday-present/index.html)
