@@ -1,1 +1,1 @@
-Demo: [点击这里](https://zxfred.github.io/birthday-present/index.html)
+Demo: [点击这里 Click here](https://zxfred.github.io/birthday-present/index.html)
